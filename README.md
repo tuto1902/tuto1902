@@ -1,8 +1,3 @@
-## Hi there! 👋🏻
-
-My name is Arturo and I'm a web developer 🚀🇨🇷
-
----
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -19,7 +14,8 @@ My name is Arturo and I'm a web developer 🚀🇨🇷
 </div>
 
 ---
-Follow me on social media
+
+### Follow me on social media:
 
 <div id="badges">
   <a href="https://www.youtube.com/channel/UCW7R0YApRK5VB87kLlDVQ0Q" >
