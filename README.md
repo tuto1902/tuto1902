@@ -15,11 +15,14 @@
 
 <div id="badges">
   <a href="https://www.youtube.com/channel/UCW7R0YApRK5VB87kLlDVQ0Q" >
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="http://twitter.com/tuto1902" >
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCW7R0YApRK5VB87kLlDVQ0Q?style=for-the-badge&logo=youtube&label=YouTube&labelColor=%23FF0000&color=white">
 
+  </a>
+  <a href="https://twitter.com/tuto1902" >
+    <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fshields.io&style=for-the-badge&logo=x&label=Twitter">
+  </a>
+  <a href="https://twitch.com/Tuto1902" >
+    <img alt="Twitch Status" src="https://img.shields.io/twitch/status/Tuto1902?style=for-the-badge&logo=twitch&logoColor=%23FFFFFF&labelColor=%239146FF">
   </a>
 </div>
 
